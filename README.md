@@ -45,7 +45,7 @@ Uncertainty-aware concept bottleneck model for interpretable medical AI.
 **Languages:** Python  
 **Frameworks:** PyTorch, TensorFlow  
 **Modeling:** GANs, GRU, Multi-modal Learning  
-**Deployment:** Docker, ONNX  
+**Deployment:** Docker, ONNX, Triton  
 **Tools:** NumPy, Pandas, OpenCV, Git, Linux  
 
 ---
