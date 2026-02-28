@@ -3,7 +3,7 @@
 AI Engineer | Generative Modeling | Time-Series Deep Learning  
 
 I specialize in building deep learning systems for healthcare applications, with a strong focus on generative models and longitudinal time-series modeling.  
-Experienced in designing end-to-end ML pipelines from data preprocessing and model training to deployment-ready inference using ONNX and Docker.
+Experienced in designing end-to-end ML pipelines from data preprocessing and model training to deployment-ready inference using ONNX, Docker, and Triton Inference Server.
 
 ---
 ## 💼 Experience
