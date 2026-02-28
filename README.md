@@ -6,7 +6,14 @@ I specialize in building deep learning systems for healthcare applications, with
 Experienced in designing end-to-end ML pipelines from data preprocessing and model training to deployment-ready inference using ONNX and Docker.
 
 ---
+## 💼 Experience
 
+**FPT Software — Intern (2024)**  
+- Developed an internal Learning Management System (LMS-FSA) supporting course management, role-based access, and training workflows.  
+- Built backend modules and REST APIs using Django in a collaborative engineering environment.  
+- Delivered a modular, scalable system suitable for enterprise deployment.
+
+---
 ## 🔬 Technical Focus
 
 - Generative Models (WGAN-GP, cGAN, Multi-modal GAN)
